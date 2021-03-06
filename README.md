@@ -38,7 +38,7 @@ gcc main.c
 Futtassuk az új alkalmazást, es közben figyeljük a rendszer logot!
 egyik terminal ablakban 
 ```
-tail -f /etc/syslog
+tail -f /var/log/syslog
 ```
 a masik terminálban 
 ```
